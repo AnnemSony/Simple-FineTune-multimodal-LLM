@@ -5,14 +5,7 @@ This repository contains code for fine-tuning the Idefics model on a Vision-Text
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Setup](#setup)
-  - [Data Preparation](#data-preparation)
-  - [Training](#training)
-- [Inference](#inference)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+-
 
 ## Installation
 
