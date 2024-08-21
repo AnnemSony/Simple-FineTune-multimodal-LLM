@@ -1,4 +1,4 @@
-# Idefics Vision-Text Model Fine-Tuning for Pokémon Cards
+# Vision-Text Model Fine-Tuning for Pokémon Cards
 
 This repository contains code for fine-tuning the Idefics model on a Vision-Text task using a dataset of Pokémon cards. The model is trained to answer questions about images of Pokémon cards.
 
