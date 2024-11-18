@@ -2,14 +2,6 @@
 
 This repository contains code for fine-tuning the Idefics model on a Vision-Text task using a dataset of Pokémon cards. The model is trained to answer questions about images of Pokémon cards.
 
-## Table of Contents
-
-- [Installation](#installation)
--
-
-## Installation
-
-To set up your environment, install the required dependencies:
 
 ```bash
 pip install -q datasets
